@@ -1,1 +1,1 @@
-# publicnews
+/index.html
